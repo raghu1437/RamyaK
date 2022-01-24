@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.exe
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.deps.json
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.runtimeconfig.json
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.dll
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\ref\Smallest No in an array.dll
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\bin\Debug\net5.0\Smallest No in an array.pdb
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.dll
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\ref\Smallest No in an array.dll
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.pdb
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.genruntimeconfig.cache
+C:\Users\ramya\source\repos\Smallest No in an array\Smallest No in an array\obj\Debug\net5.0\Smallest No in an array.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\ramya\source\repos\Linq\fileext\fileext\obj\Debug\net5.0\fileext.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Linq\fileext\fileext\obj\Debug\net5.0\fileext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Linq\fileext\fileext\obj\Debug\net5.0\fileext.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Linq\fileext\fileext\obj\Debug\net5.0\fileext.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Linq\fileext\fileext\obj\Debug\net5.0\fileext.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\Assignments\fileext\fileext\obj\Debug\net5.0\fileext.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Assignments\fileext\fileext\obj\Debug\net5.0\fileext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Assignments\fileext\fileext\obj\Debug\net5.0\fileext.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Assignments\fileext\fileext\obj\Debug\net5.0\fileext.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Assignments\fileext\fileext\obj\Debug\net5.0\fileext.csproj.CoreCompileInputs.cache

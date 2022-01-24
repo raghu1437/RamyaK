@@ -1,0 +1,5 @@
+C:\Users\ramya\source\repos\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache

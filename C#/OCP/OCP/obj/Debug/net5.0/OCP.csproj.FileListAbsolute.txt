@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.AssemblyInfo.cs
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.exe
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.deps.json
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.runtimeconfig.json
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.dll
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\ref\OCP.dll
+C:\Users\ramya\source\repos\OCP\OCP\bin\Debug\net5.0\OCP.pdb
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.dll
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\ref\OCP.dll
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.pdb
+C:\Users\ramya\source\repos\OCP\OCP\obj\Debug\net5.0\OCP.genruntimeconfig.cache

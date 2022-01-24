@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.exe
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.deps.json
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.runtimeconfig.json
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.dll
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\ref\randomevenno.dll
+C:\Users\ramya\source\repos\randomevenno\randomevenno\bin\Debug\net5.0\randomevenno.pdb
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.AssemblyInfo.cs
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.dll
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\ref\randomevenno.dll
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.pdb
+C:\Users\ramya\source\repos\randomevenno\randomevenno\obj\Debug\net5.0\randomevenno.genruntimeconfig.cache

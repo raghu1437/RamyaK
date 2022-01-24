@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.exe
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.deps.json
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.runtimeconfig.json
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.dll
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\ref\Protected.dll
+C:\Users\ramya\source\repos\Protected\Protected\bin\Debug\net5.0\Protected.pdb
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.dll
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\ref\Protected.dll
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.pdb
+C:\Users\ramya\source\repos\Protected\Protected\obj\Debug\net5.0\Protected.genruntimeconfig.cache

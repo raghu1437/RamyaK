@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.AssemblyInfo.cs
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.exe
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.deps.json
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.runtimeconfig.json
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.dll
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\ref\LSP.dll
+C:\Users\ramya\source\repos\LSP\LSP\bin\Debug\net5.0\LSP.pdb
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.dll
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\ref\LSP.dll
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.pdb
+C:\Users\ramya\source\repos\LSP\LSP\obj\Debug\net5.0\LSP.genruntimeconfig.cache

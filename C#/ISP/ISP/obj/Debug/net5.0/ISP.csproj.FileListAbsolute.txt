@@ -1,0 +1,15 @@
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.AssemblyInfo.cs
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.exe
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.deps.json
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.runtimeconfig.json
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.dll
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ref\ISP.dll
+C:\Users\ramya\source\repos\ISP\ISP\bin\Debug\net5.0\ISP.pdb
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.dll
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ref\ISP.dll
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.pdb
+C:\Users\ramya\source\repos\ISP\ISP\obj\Debug\net5.0\ISP.genruntimeconfig.cache

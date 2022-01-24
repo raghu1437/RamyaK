@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.exe
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.deps.json
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.runtimeconfig.json
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.dll
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\ref\reversinganarray.dll
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\bin\Debug\net5.0\reversinganarray.pdb
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.AssemblyInfo.cs
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.dll
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\ref\reversinganarray.dll
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.pdb
+C:\Users\ramya\source\repos\reversinganarray\reversinganarray\obj\Debug\net5.0\reversinganarray.genruntimeconfig.cache

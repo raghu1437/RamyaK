@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.exe
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.deps.json
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.runtimeconfig.json
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.dll
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\ref\parallelquerytooddnos.dll
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\bin\Debug\net5.0\parallelquerytooddnos.pdb
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.dll
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\ref\parallelquerytooddnos.dll
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.pdb
+C:\Users\ramya\source\repos\Linq\parallelquerytooddnos\parallelquerytooddnos\obj\Debug\net5.0\parallelquerytooddnos.genruntimeconfig.cache

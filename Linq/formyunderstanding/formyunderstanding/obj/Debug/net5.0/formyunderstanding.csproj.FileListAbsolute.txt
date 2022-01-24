@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.exe
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.deps.json
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.runtimeconfig.json
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.dll
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\ref\formyunderstanding.dll
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\bin\Debug\net5.0\formyunderstanding.pdb
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.AssemblyInfo.cs
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.dll
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\ref\formyunderstanding.dll
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.pdb
+C:\Users\ramya\source\repos\formyunderstanding\formyunderstanding\obj\Debug\net5.0\formyunderstanding.genruntimeconfig.cache

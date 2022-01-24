@@ -1,0 +1,15 @@
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.exe
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.deps.json
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.runtimeconfig.json
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.dll
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\ref\multiplesof5.dll
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\bin\Debug\net5.0\multiplesof5.pdb
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.AssemblyInfo.cs
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.dll
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\ref\multiplesof5.dll
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.pdb
+C:\Users\ramya\source\repos\multiplesof5\multiplesof5\obj\Debug\net5.0\multiplesof5.genruntimeconfig.cache

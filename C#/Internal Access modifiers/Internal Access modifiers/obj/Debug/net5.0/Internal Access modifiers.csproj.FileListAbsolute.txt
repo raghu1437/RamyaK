@@ -1,0 +1,5 @@
+C:\Users\ramya\source\repos\Internal Access modifiers\Internal Access modifiers\obj\Debug\net5.0\Internal Access modifiers.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Internal Access modifiers\Internal Access modifiers\obj\Debug\net5.0\Internal Access modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Internal Access modifiers\Internal Access modifiers\obj\Debug\net5.0\Internal Access modifiers.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Internal Access modifiers\Internal Access modifiers\obj\Debug\net5.0\Internal Access modifiers.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Internal Access modifiers\Internal Access modifiers\obj\Debug\net5.0\Internal Access modifiers.csproj.CoreCompileInputs.cache

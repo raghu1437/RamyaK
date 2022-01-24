@@ -1,0 +1,16 @@
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.exe
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.deps.json
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.runtimeconfig.json
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.runtimeconfig.dev.json
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.dll
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\ref\NegativeDoublenos.dll
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\bin\Debug\net5.0\NegativeDoublenos.pdb
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.AssemblyInfoInputs.cache
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.AssemblyInfo.cs
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.dll
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\ref\NegativeDoublenos.dll
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.pdb
+C:\Users\ramya\source\repos\Linq\NegativeDoublenos\NegativeDoublenos\obj\Debug\net5.0\NegativeDoublenos.genruntimeconfig.cache
